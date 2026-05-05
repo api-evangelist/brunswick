@@ -1,0 +1,13 @@
+{
+  "repo": "brunswick",
+  "feeds": [
+    {
+      "source": "https://www.brunswick.com/news",
+      "feed_url": "https://www.brunswick.com/news/press-releases/rss",
+      "saved": 10,
+      "title": "Brunswick Corporation (BC) News"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:24:28Z"
+}
