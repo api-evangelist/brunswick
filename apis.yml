@@ -17,7 +17,7 @@ tags:
   - Marine Electronics
   - Marine Propulsion
   - Recreation
-x-type: company
+kind: company
 apis: []
 common:
   - type: Website
