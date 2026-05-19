@@ -20,6 +20,8 @@ tags:
 kind: company
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/brunswick-corporation
   - type: Website
     url: https://www.brunswick.com
   - type: InvestorRelations
