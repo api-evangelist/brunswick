@@ -21,6 +21,8 @@ tags:
 kind: company
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/brunswick-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/brunswick-corporation
   - type: Website
