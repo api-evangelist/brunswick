@@ -1,7 +1,9 @@
 ---
 title: B&G® Celebrates 70 Years of Sailing Innovation
 url: https://www.brunswick.com/news/press-releases/detail/971/bg-celebrates-70-years-of-sailing-innovation
-date: '2026-03-17'
+published: ''
+date_basis: harvested
+harvested: '2026-03-17'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

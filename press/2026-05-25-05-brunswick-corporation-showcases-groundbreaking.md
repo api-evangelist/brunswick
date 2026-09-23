@@ -1,7 +1,9 @@
 ---
 title: Brunswick Corporation Showcases Groundbreaking ...
 url: https://www.quiverquant.com/news/Brunswick+Corporation+Showcases+Groundbreaking+Marine+Innovations+at+CES+2026
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Brunswick" press release artificial intelligence'
 position: 5
 source: serpapi-google

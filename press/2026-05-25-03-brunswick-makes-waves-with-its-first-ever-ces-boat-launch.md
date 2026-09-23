@@ -1,7 +1,9 @@
 ---
 title: Brunswick Makes Waves With Its First-Ever CES Boat Launch
 url: https://www.ces.tech/videos/brunswick-makes-waves-with-its-first-ever-ces-boat-launch/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Brunswick" press release artificial intelligence'
 position: 3
 source: serpapi-google

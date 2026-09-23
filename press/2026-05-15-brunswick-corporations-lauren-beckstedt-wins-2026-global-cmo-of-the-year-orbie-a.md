@@ -2,7 +2,9 @@
 title: Brunswick Corporation's Lauren Beckstedt Wins 2026 Global CMO of the Year ORBIE
   Award
 url: https://www.brunswick.com/news/press-releases/detail/990/brunswick-corporations-lauren-beckstedt-wins-2026-global
-date: '2026-05-15'
+published: ''
+date_basis: harvested
+harvested: '2026-05-15'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

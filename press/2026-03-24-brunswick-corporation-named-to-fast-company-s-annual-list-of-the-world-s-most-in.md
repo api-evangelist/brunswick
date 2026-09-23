@@ -2,7 +2,9 @@
 title: Brunswick Corporation Named to Fast Company’s Annual List of the World’s Most
   Innovative Companies of 2026
 url: https://www.brunswick.com/news/press-releases/detail/974/brunswick-corporation-named-to-fast-companys-annual-list
-date: '2026-03-24'
+published: ''
+date_basis: harvested
+harvested: '2026-03-24'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

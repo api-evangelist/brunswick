@@ -1,7 +1,9 @@
 ---
 title: Brunswick Recognizes Global Facilities for Exceptional Safety Achievements
 url: https://www.brunswick.com/news/press-releases/detail/982/brunswick-recognizes-global-facilities-for-exceptional
-date: '2026-04-28'
+published: ''
+date_basis: harvested
+harvested: '2026-04-28'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

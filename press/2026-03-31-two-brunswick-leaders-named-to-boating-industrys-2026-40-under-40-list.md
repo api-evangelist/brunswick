@@ -1,7 +1,9 @@
 ---
 title: Two Brunswick Leaders Named to Boating Industry's 2026 40 Under 40 List
 url: https://www.brunswick.com/news/press-releases/detail/977/two-brunswick-leaders-named-to-boating-industrys-2026-40
-date: '2026-03-31'
+published: ''
+date_basis: harvested
+harvested: '2026-03-31'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

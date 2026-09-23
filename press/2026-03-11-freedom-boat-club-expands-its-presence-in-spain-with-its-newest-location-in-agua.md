@@ -2,7 +2,9 @@
 title: Freedom Boat Club Expands Its Presence in Spain with its Newest Location in
   Aguadulce
 url: https://www.brunswick.com/news/press-releases/detail/969/freedom-boat-club-expands-its-presence-in-spain-with-its
-date: '2026-03-11'
+published: ''
+date_basis: harvested
+harvested: '2026-03-11'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

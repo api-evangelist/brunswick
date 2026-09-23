@@ -2,7 +2,9 @@
 title: Roblox developer Voldex Partners with Brunswick Boat Group to Launch First-Ever
   Boating Experience in Driving Empire’s “Big Splash” Update
 url: https://www.brunswick.com/news/press-releases/detail/973/roblox-developer-voldex-partners-with-brunswick-boat-group
-date: '2026-03-19'
+published: ''
+date_basis: harvested
+harvested: '2026-03-19'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

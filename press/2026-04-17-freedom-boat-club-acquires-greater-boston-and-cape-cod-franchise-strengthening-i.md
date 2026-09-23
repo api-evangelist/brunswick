@@ -2,7 +2,9 @@
 title: Freedom Boat Club Acquires Greater Boston & Cape Cod Franchise Strengthening
   Its Northeast Presence
 url: https://www.brunswick.com/news/press-releases/detail/981/freedom-boat-club-acquires-greater-boston-cape-cod
-date: '2026-04-17'
+published: ''
+date_basis: harvested
+harvested: '2026-04-17'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

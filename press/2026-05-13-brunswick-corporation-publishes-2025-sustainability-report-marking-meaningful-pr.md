@@ -2,7 +2,9 @@
 title: Brunswick Corporation Publishes 2025 Sustainability Report, Marking Meaningful
   Progress Across People, Products and the Environment
 url: https://www.brunswick.com/news/press-releases/detail/986/brunswick-corporation-publishes-2025-sustainability-report
-date: '2026-05-13'
+published: ''
+date_basis: harvested
+harvested: '2026-05-13'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

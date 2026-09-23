@@ -1,7 +1,9 @@
 ---
 title: AI at the Helm of Marine Innovation, presented by Brunswick
 url: https://www.ces.tech/schedule/ai-at-the-helm-of-marine-innovation-presented-by-brunswick/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Brunswick" press release artificial intelligence'
 position: 2
 source: serpapi-google

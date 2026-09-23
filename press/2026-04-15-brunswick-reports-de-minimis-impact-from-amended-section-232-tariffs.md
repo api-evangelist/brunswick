@@ -1,7 +1,9 @@
 ---
 title: Brunswick Reports De-minimis Impact from Amended Section 232 Tariffs
 url: https://www.brunswick.com/news/press-releases/detail/980/brunswick-reports-de-minimis-impact-from-amended-section
-date: '2026-04-15'
+published: ''
+date_basis: harvested
+harvested: '2026-04-15'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

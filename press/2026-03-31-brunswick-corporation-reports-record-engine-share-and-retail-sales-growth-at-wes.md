@@ -2,7 +2,9 @@
 title: Brunswick Corporation Reports Record Engine Share and Retail Sales Growth at
   West Palm Beach Boat Show
 url: https://www.brunswick.com/news/press-releases/detail/975/brunswick-corporation-reports-record-engine-share-and
-date: '2026-03-31'
+published: ''
+date_basis: harvested
+harvested: '2026-03-31'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

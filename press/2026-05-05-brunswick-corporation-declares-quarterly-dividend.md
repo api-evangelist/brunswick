@@ -1,7 +1,9 @@
 ---
 title: Brunswick Corporation Declares Quarterly Dividend
 url: https://www.brunswick.com/news/press-releases/detail/984/brunswick-corporation-declares-quarterly-dividend
-date: '2026-05-05'
+published: ''
+date_basis: harvested
+harvested: '2026-05-05'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

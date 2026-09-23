@@ -2,7 +2,9 @@
 title: Brunswick Corporation Collaborates with Textron Systems on TSUNAMI® Uncrewed
   Surface Vessel Deliveries for DIU, U.S. Navy Fourth Fleet and SOUTHCOM
 url: https://www.brunswick.com/news/press-releases/detail/985/brunswick-corporation-collaborates-with-textron-systems-on
-date: '2026-05-08'
+published: ''
+date_basis: harvested
+harvested: '2026-05-08'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

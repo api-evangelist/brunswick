@@ -2,7 +2,9 @@
 title: Boston Whaler and Salty Crew Launch Limited-Edition Apparel Collaboration for
   Spring ’26
 url: https://www.brunswick.com/news/press-releases/detail/988/boston-whaler-and-salty-crew-launch-limited-edition-apparel
-date: '2026-05-15'
+published: ''
+date_basis: harvested
+harvested: '2026-05-15'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

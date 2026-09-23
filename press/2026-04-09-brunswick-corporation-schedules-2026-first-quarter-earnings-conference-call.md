@@ -1,7 +1,9 @@
 ---
 title: Brunswick Corporation Schedules 2026 First Quarter Earnings Conference Call
 url: https://www.brunswick.com/news/press-releases/detail/979/brunswick-corporation-schedules-2026-first-quarter-earnings
-date: '2026-04-09'
+published: ''
+date_basis: harvested
+harvested: '2026-04-09'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

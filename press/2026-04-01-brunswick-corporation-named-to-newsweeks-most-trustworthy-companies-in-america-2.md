@@ -2,7 +2,9 @@
 title: Brunswick Corporation Named to Newsweek's Most Trustworthy Companies in America
   2026 List for Fourth Consecutive Year
 url: https://www.brunswick.com/news/press-releases/detail/976/brunswick-corporation-named-to-newsweeks-most-trustworthy
-date: '2026-04-01'
+published: ''
+date_basis: harvested
+harvested: '2026-04-01'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

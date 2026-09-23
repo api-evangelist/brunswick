@@ -2,7 +2,9 @@
 title: BoatClass Expands to More Than 40 Locations Across North America for the 2026
   Boating Season
 url: https://www.brunswick.com/news/press-releases/detail/987/boatclass-expands-to-more-than-40-locations-across-north
-date: '2026-05-13'
+published: ''
+date_basis: harvested
+harvested: '2026-05-13'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

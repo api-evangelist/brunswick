@@ -1,7 +1,9 @@
 ---
 title: Brunswick Corporation Releases 2026 First Quarter Earnings
 url: https://www.brunswick.com/news/press-releases/detail/983/brunswick-corporation-releases-2026-first-quarter-earnings
-date: '2026-04-30'
+published: ''
+date_basis: harvested
+harvested: '2026-04-30'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

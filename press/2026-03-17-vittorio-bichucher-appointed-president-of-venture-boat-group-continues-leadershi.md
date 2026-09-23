@@ -2,7 +2,9 @@
 title: Vittorio Bichucher Appointed President of Venture Boat Group, Continues Leadership
   at NAVAN
 url: https://www.brunswick.com/news/press-releases/detail/972/vittorio-bichucher-appointed-president-of-venture-boat
-date: '2026-03-17'
+published: ''
+date_basis: harvested
+harvested: '2026-03-17'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---

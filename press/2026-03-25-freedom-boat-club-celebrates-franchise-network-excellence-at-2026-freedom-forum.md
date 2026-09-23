@@ -1,7 +1,9 @@
 ---
 title: Freedom Boat Club Celebrates Franchise Network Excellence at 2026 Freedom Forum
 url: https://www.brunswick.com/news/press-releases/detail/978/freedom-boat-club-celebrates-franchise-network-excellence
-date: '2026-03-25'
+published: ''
+date_basis: harvested
+harvested: '2026-03-25'
 author: ''
 feed_url: https://www.brunswick.com/news/press-releases/rss
 ---
