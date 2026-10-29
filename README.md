@@ -1,4 +1,4 @@
-# Brunswick Corporation (brunswick)
+# Brunswick
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,31 +66,80 @@
 
 Brunswick Corporation is a global leader in marine recreation and technology, headquartered in Mettawa, Illinois (NYSE: BC). Brunswick owns over 60 brands across marine propulsion (Mercury Marine, Mercury Racing, MerCruiser, Fliteboard), boat manufacturing (Boston Whaler, Sea Ray, Bayliner, Lund, Crestliner, Harris, Lowe, heyday), and marine parts and accessories (Navico Group: B&G, C-Map, Lowrance, Simrad). The company's ACES innovation strategy centers on Autonomy/Assistance, Connectivity, Electrification, and Shared Access.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/brunswick/refs/heads/main/apis.yml)
+**Areas:** Boat Manufacturing · Boating · Connectivity · Electrification · Marine · Marine Electronics · Marine Propulsion · Recreation · Fortune 1000
 
-## Tags:
+## Brunswick on APIs.io
 
- - Boat Manufacturing, Boating, Connectivity, Electrification, Marine, Marine Electronics, Marine Propulsion, Recreation
+Everything profiled for Brunswick is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/brunswick/](https://apis.io/providers/brunswick/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-21
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-No public APIs have been documented for Brunswick Corporation. Check back for updates.
+Authentication, trust centre, and vulnerability disclosure.
 
-## Common Properties
+- [Brunswick Domain Security](https://apis.io/security/brunswick/brunswick-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.brunswick.com)
-- [InvestorRelations](https://ir.brunswick.com)
-- [PrivacyPolicy](https://www.brunswick.com/privacy-policy)
-- [TermsOfService](https://www.brunswick.com/terms-of-use)
 - [Blog](https://www.brunswick.com/news)
+- [Terms of service](https://www.brunswick.com/terms-of-use)
+- [Privacy policy](https://www.brunswick.com/privacy-policy)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/brunswick/](https://apis.io/providers/brunswick/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Brunswick: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/brunswick/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
